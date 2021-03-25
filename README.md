@@ -1,4 +1,4 @@
 # NLP projects 
 <ol>
-  <li>Sentiment analysis with sentiment word lexicon</li>
+  <li>Sentiment analysis with lexicon</li>
 </ol>
